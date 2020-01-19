@@ -1,0 +1,6 @@
+{
+    "mongoURI":
+      "mongodb+srv://<username>:<password>@<mongoatlasurl>"
+}
+
+ 
